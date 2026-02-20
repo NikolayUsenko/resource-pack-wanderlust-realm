@@ -29,9 +29,25 @@
 	"item.minecraft.tipped_arrow.effect.vitality_strong": "Стрела прилива здоровья",
 
   "item.environmental.healer_pouch": "Сумка лекаря",
+  "item.environmental.architect_belt": "Пояс архитектора",
 
   "item.environmental.thief_hood.desc": "Монстров убито",
   "item.environmental.healer_pouch.desc": "Всплески адреналина",
   "item.environmental.architect_belt.desc": "Блоков размещенно",
-  "item.environmental.wanderer_boots.desc": "Блоков пройдено"
+  "item.environmental.wanderer_boots.desc": "Блоков пройдено",
+
+  "advancements.environmental.adventure.obtain_explorer_gear.title": "Забирала, не забирай!",
+	"advancements.environmental.adventure.obtain_explorer_gear.description": "Получите один элемент снаряжения исследователя",
+
+	"advancements.environmental.adventure.upgrade_thief_hood.title": "Виртуоз криминала",
+	"advancements.environmental.adventure.upgrade_thief_hood.description": "Добудьте капюшон вора, выпадающий со скелетов или визер-скелетов, и полностью прокачайте его",
+
+	"advancements.environmental.adventure.upgrade_healer_pouch.title": "Тревога! В крепости",
+	"advancements.environmental.adventure.upgrade_healer_pouch.description": "Добудьте сумку лекаря, выпадающая с мобов в крепостях или шахтах, и полностью прокачайте её",
+
+	"advancements.environmental.adventure.upgrade_architect_belt.title": "Можем ли мы всё наладить?",
+	"advancements.environmental.adventure.upgrade_architect_belt.description": "Buy the Architect's Belt from a master Mason, Carpenter, or Ceramist and completely level it up",
+
+	"advancements.environmental.adventure.upgrade_wanderer_boots.title": "Boots with the Fur",
+	"advancements.environmental.adventure.upgrade_wanderer_boots.description": "Receive the Wanderer's Boots rarely from a Wandering Trader and completely level it up"
 }
